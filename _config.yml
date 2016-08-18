@@ -1,0 +1,14 @@
+layout_spectrum: 0.3733833529986441
+typography_spectrum: 0.20224719820544124
+color:
+  brandStrength: 0.4897537853103131
+  lightness: 0.17770968237891793
+  saturation: 0.13529956829734147
+  rhythmicContrast: 0.22705446113832295
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Clinical Research
